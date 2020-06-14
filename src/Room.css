@@ -1,0 +1,62 @@
+.room {
+    height: 100vh;
+    text-align: center;
+  }
+
+  .ON {
+    background-color: white;
+    color: black;
+  }
+
+  .OFF {
+    background-color: black;
+    color: white;
+  }
+
+  .on {
+    background-color: lightgreen;
+    border: 1px solid gray;
+    margin: 35px;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
+  
+  .off {
+    background-color: lightgreen;
+    border: 1px solid gray;
+    margin: 35px;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
+  
+  .plus {
+    background-color: rgb(114, 9, 155);
+    border: 1px solid gray;
+    margin: 35px;
+    color: white;
+    padding:30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .minus {
+    background-color: rgb(114, 9, 155);
+    border: 1px solid gray;
+    margin: 35px;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+  }
